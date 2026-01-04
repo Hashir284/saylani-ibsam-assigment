@@ -18,10 +18,14 @@ h1{
     font-size: 60px;
     font-family: sans-serif;
 }
+
+.file{
+    padding: 20px 100px;
+}
  
-ul li a{
+.file ul li a{ 
     color: black;
-    padding:  50px  50px;
     font-size: 30px;
+    list-style:  none;
 }
 

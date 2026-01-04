@@ -1,0 +1,15 @@
+body {
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, red, blue);
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      padding: 1px 20px;
+       font-size: 100px;
+    }
+
+   
